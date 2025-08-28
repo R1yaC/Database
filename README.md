@@ -1,5 +1,3 @@
-Group Members: Riya Chaurasia, Abhipsha Luitel, Piya Shah, Moksha Shah, Vineesha Vuppala
-
 This project is a comprehensive Expense Management System built using Python and SQLite.
 It allows users (Admins and Regular Users) to track expenses, categorize spending, generate reports,
 and manage budgets with role-based access control.
