@@ -1,0 +1,12 @@
+expense_id,user_id,category_id,method_id,amount,date,description,tag,status,receipt_image,created_at
+1,2,2,4,50.0,2025-02-23,Birthday trip,,Pending,,2025-04-03 15:28:58
+2,1,1,4,50.0,2025-03-27,Movie,,Pending,,2025-04-03 16:54:23
+3,2,2,1,60.0,2025-04-01,Cab to FLAME,,Pending,,2025-04-03 16:55:49
+13,1,2,3,150.5,2025-04-03,Lunch with friends,Food,Pending,,2025-04-03 17:13:19
+14,7,4,4,110.0,2025-04-01,concert,,Pending,,2025-04-03 17:44:26
+15,8,2,1,170.0,2025-03-26,auto to home,,Pending,,2025-04-03 17:45:18
+16,9,1,2,200.0,2025-01-01,coffee,,Pending,,2025-04-03 17:46:11
+17,9,4,3,300.0,2025-03-31,Arcade with friends,,Pending,,2025-04-03 17:48:56
+18,9,1,4,400.0,2025-04-03,Bbq nation,,Pending,,2025-04-03 17:50:04
+19,2,1,2,990.0,2025-02-23,Birthday dinner,,Pending,,2025-04-03 17:51:27
+20,4,3,3,120.0,2025-04-01,Water bill,,Pending,,2025-04-03 17:53:44
